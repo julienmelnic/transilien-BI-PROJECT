@@ -129,6 +129,28 @@ Analysis of:
 
 ![Line Dashboard](screenshot/line_dashboard.png)
 
+---
+
+## Key Insights
+
+- Global punctuality improved between 2013 and 2024
+- Some railway lines remain structurally more irregular
+- Weather influence exists but remains moderate
+- Strike periods correlate with irregularity peaks
+
+---
+
+# Tech Stack
+
+- Python
+- pandas
+- NumPy
+- Matplotlib
+- SAP Analytics Cloud
+- Jupyter Notebook
+
+---
+
 ## Repository Structure
 
 
